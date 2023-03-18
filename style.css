@@ -1,0 +1,27 @@
+html{
+    background-color: #B0B0B0;
+    color: white;
+}
+
+.nav{
+    margin: 1% 20% 1% 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    width: 25%;
+}
+
+.cont{
+    font-size: 30px;
+    margin: 0 20% 0 20%;
+    padding: 10%;
+    border-radius: 20px;
+    background-color: #888888;
+}
+
+footer{
+    font-size: 30px;
+    margin: 0 20% 0 20%;
+}
