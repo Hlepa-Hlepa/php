@@ -1,0 +1,22 @@
+.form1, .form2, .form3, .form4{
+    padding: 1% 2% 1% 2%;
+}
+
+.btn-link{
+    margin: 2% 2% 1% 2%;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    background-color: coral;
+}
+
+.btn-Summit{
+    margin: 1% 2% 2% 2%;
+    padding: 5px;
+    text-decoration: none;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    background-color: coral;
+}

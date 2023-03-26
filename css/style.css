@@ -50,6 +50,7 @@ main{
 /*-----------------------------------*/
 
 footer{
+    margin: 2% 0 0 0;
     padding: 0.5% 2% 0.5% 2%;
     font-size: 20px;
     color: white;

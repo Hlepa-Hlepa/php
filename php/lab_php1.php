@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/normalize.css">
     <title>lab_php</title>
 </head>
 <body>
     <header>
         <nav>
             <div class="nav_lvl_1">
-                 <img class="logo" src="img/top_sh.png">
+                 <img class="logo" src="../img/top_sh.png">
                  <p class="name_student">Тулин Константин Александрович 221-323</p>
             </div>
             <div class="nav_lvl_2">
-                <a href="index.html">Главная</a>
-                <a href="php/lab_php1.php">lab 1</a>
-                <a href="php/form.php">lab 2</a>
+                <a href="../index.html">Главная</a>
+                <a href="../php/lab_php1.php">lab 1</a>
+                <a href="../php/form.php">lab 2</a>
                 <a href="">lab 3</a>
                 <a href="">lab 4</a>
                 <a href="">lab 5</a>
@@ -26,8 +26,13 @@
         </nav>
     </header>
     <main>
+        <h1>2.1.Домашняя работа: Hello, World!</h1>
+        <?php 
+        echo 'Hello, World!';
+        ?>
     </main>
     <footer>
+        <p>Задание для самостоятельно работы</p>
     </footer>
 </body>
 </html>
